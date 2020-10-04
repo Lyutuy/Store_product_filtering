@@ -11,7 +11,7 @@ Example store products filtering
 `npm install && npm run dev`
 5. Migrate database (--seed optional):</br>
 `php artisan migrate --seed`
-6. Generate app key:
+6. Generate app key:</br>
 `php artisan key:generate`
 ### Testing
 php artisan test</br>
